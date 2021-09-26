@@ -2,4 +2,5 @@
 node_modules
 
 # misc
+.eslinitcache
 package-lock.json
